@@ -4,12 +4,12 @@ languages: ruby
 type: intro
 ---
 
-## If Statements
+### Students Will Be Able To...
++ Explain what an **if statement** is and why it’s used
++ Implement an if statement with **1, 2, and 3+ branches**
++ Implement the **comparison operator**
 
-These handy fellas let us control the flow of our programs. This flow let's us trigger events to happen based on specific input. So what does this mean? Less manual control. WOO.
-
-By the end of this lesson, students will be able to:
-
-1 Explain what an if statement is and why it’s used
-2 Implement an if state with 1, 2, and 3+ branches
-3 Implement the comparison operators
+---
+### If Statements
+<img src="https://s3.amazonaws.com/after-school-assets/roadfork.jpg" width="300px" align="right" hspace="10">
+**If statements** are like traffic intersections in your code. They allow you to have different paths the program can take depending on what happens as it is executed. Different pieces of code get executed depending on what the user submits, a computation's result, or a value that gets returned somewhere else in the program. Each path is called a branch, and **control flow** describes the use of branches within our code.
