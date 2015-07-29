@@ -1,8 +1,4 @@
----
-tags: intro, ruby, if/else, if statements
-languages: ruby
-type: intro
----
+
 
 ### Students Will Be Able To...
 + Explain what an **if statement** is and why it’s used
