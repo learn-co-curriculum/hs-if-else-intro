@@ -11,4 +11,4 @@
 
 The **if statement** will be your main control flow tool you'll use in your code. There are other types of statements you can use for control flow like **unless statements** or **case statements**, too.
 
-<a href='https://learn.co/lessons/hs-if-else-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-if-else-intro' title='Students Will Be Able To...'>Students Will Be Able To...</a> on Learn.co and start learning to code for free.</p>
